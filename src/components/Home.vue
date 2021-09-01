@@ -3,7 +3,7 @@
     <el-button
       type="info"
       @click="logout"
-    >退出</el-button>
+    >退出haha</el-button>
   </div>
 </template>
 
